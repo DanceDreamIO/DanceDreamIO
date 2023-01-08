@@ -1,6 +1,6 @@
 # Home Page / 主页
 
-[![Aifadian](https://ts1.cn.mm.bing.net/th?id=ODLS.410483d2-ce7f-4190-9cb1-30b36831c1e5&w=16&h=16&o=6&pid=1.2)](https://afdian.net/a/GreatToolKit)
+送杯咖啡：[![Aifadian](https://ts1.cn.mm.bing.net/th?id=ODLS.410483d2-ce7f-4190-9cb1-30b36831c1e5&w=16&h=16&o=6&pid=1.2)](https://afdian.net/a/GreatToolKit)
 
 个人网站地址：http://base1.dancedreamcreate.eu.org
 
