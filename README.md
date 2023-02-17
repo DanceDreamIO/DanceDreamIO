@@ -1,8 +1,8 @@
 # Home Page / 主页
 
 [![RSSlink](http://base1.dancedreamcreate.eu.org/img/rssfeed.ico)](https://blog.dancedreamcreate.eu.org/index.php/feed/)
-[![AifadianLink](http://base1.dancedreamcreate.eu.org/img/afdian.ico)](https://afdian.net/a/GreatToolKit)
-[![GithubLink](http://base1.dancedreamcreate.eu.org/img/github.ico)](https://github.com/DanceDreamIO)
+[![AifadianLink](http://base1.dancedreamcreate.eu.org/img/hafdian.ico)](https://afdian.net/a/GreatToolKit)
+[![GithubLink](http://base1.dancedreamcreate.eu.org/img/hgithub.ico)](https://github.com/DanceDreamIO)
 
 [![MyWebsiteLink](http://base1.dancedreamcreate.eu.org/img/dancedreamnet.jpg)](http://net.dancedreamcreate.eu.org)
 
