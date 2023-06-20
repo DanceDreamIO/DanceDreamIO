@@ -1,11 +1,11 @@
 # Home Page / 主页
 
-[![RSSlink](http://base1.dancedreamcreate.eu.org/img/rssfeed.ico)](https://blog.dancedreamcreate.eu.org/index.php/feed/)
-[![AifadianLink](http://base1.dancedreamcreate.eu.org/img/hafdian.ico)](https://afdian.net/a/GreatToolKit)
-[![GithubLink](http://base1.dancedreamcreate.eu.org/img/hgithub.ico)](https://github.com/DanceDreamIO)
+[![RSSlink](https://resources.dancedream.top/img/rssfeed.ico)](https://blog.dancedream.top/feed/)
+[![AifadianLink](https://resources.dancedream.top/img/afdian.ico)](https://afdian.net/a/GreatToolKit)
+[![GithubLink](https://resources.dancedream.top/img/github.ico)](https://github.com/DanceDreamIO)
 
-[![MyWebsiteLink](http://base1.dancedreamcreate.eu.org/img/dancedreamnet.jpg)](http://net.dancedreamcreate.eu.org)
-[![MyWebsiteLink](http://base1.dancedreamcreate.eu.org/img/dancedreamhnet.jpg)](http://hnet.dancedreamcreate.eu.org)
+[![MyWebsiteLink](https://resources.dancedream.top/img/dancedreamnet.jpg)](http://netguide.dancedream.top/?redirect=netauto)
+[![MyWebsiteLink](https://resources.dancedream.top/img/dancedreamhnet.jpg)](http://netguide.dancedream.top/?redirect=hnetauto)
 
 反馈问题、提交建议 / Report or give me suggestions：
 
